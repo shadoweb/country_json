@@ -1,4 +1,4 @@
-module.exports = {
+{
   'list': [{
     'letter': '常用地区',
     'data': [
